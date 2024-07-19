@@ -9,9 +9,11 @@ Main points:
 ## Bare bones kernel
 1) Got my i5 mac mini booted into Ubuntu
 
-### Day 1: July 18, 2024
+### Day 2: July 18, 2024
 ## Design Pattern Sliding Window
 904. Fruit into baskets: https://leetcode.com/problems/fruit-into-baskets/description/
+Explanation: https://algo.monster/liteproblems/904
 
 ## Bare bones kernel
 1) Setup WSL Ubuntu on work pc
+2) Built gcc and binutils, gcc took like 30 minutes to build
